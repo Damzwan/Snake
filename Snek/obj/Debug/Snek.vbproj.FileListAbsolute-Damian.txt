@@ -1,0 +1,24 @@
+C:\Workdir\Oefeningen\Visual Basic\Snek\Snek\bin\Debug\Snek.exe.config
+C:\Workdir\Oefeningen\Visual Basic\Snek\Snek\bin\Debug\Snek.exe
+C:\Workdir\Oefeningen\Visual Basic\Snek\Snek\bin\Debug\Snek.pdb
+C:\Workdir\Oefeningen\Visual Basic\Snek\Snek\bin\Debug\Snek.xml
+C:\Workdir\Oefeningen\Visual Basic\Snek\Snek\obj\Debug\Snek.vbprojResolveAssemblyReference.cache
+C:\Workdir\Oefeningen\Visual Basic\Snek\Snek\obj\Debug\Snek.Form1.resources
+C:\Workdir\Oefeningen\Visual Basic\Snek\Snek\obj\Debug\Snek.Resources.resources
+C:\Workdir\Oefeningen\Visual Basic\Snek\Snek\obj\Debug\Snek.vbproj.GenerateResource.Cache
+C:\Workdir\Oefeningen\Visual Basic\Snek\Snek\obj\Debug\Snek.vbproj.CoreCompileInputs.cache
+C:\Workdir\Oefeningen\Visual Basic\Snek\Snek\obj\Debug\Snek.exe
+C:\Workdir\Oefeningen\Visual Basic\Snek\Snek\obj\Debug\Snek.xml
+C:\Workdir\Oefeningen\Visual Basic\Snek\Snek\obj\Debug\Snek.pdb
+C:\Users\henky001\OneDrive\Documents\Snek\bin\Debug\Snek.exe.config
+C:\Users\henky001\OneDrive\Documents\Snek\bin\Debug\Snek.exe
+C:\Users\henky001\OneDrive\Documents\Snek\bin\Debug\Snek.pdb
+C:\Users\henky001\OneDrive\Documents\Snek\bin\Debug\Snek.xml
+C:\Users\henky001\OneDrive\Documents\Snek\obj\Debug\Snek.vbprojResolveAssemblyReference.cache
+C:\Users\henky001\OneDrive\Documents\Snek\obj\Debug\Snek.Form1.resources
+C:\Users\henky001\OneDrive\Documents\Snek\obj\Debug\Snek.Resources.resources
+C:\Users\henky001\OneDrive\Documents\Snek\obj\Debug\Snek.vbproj.GenerateResource.Cache
+C:\Users\henky001\OneDrive\Documents\Snek\obj\Debug\Snek.vbproj.CoreCompileInputs.cache
+C:\Users\henky001\OneDrive\Documents\Snek\obj\Debug\Snek.exe
+C:\Users\henky001\OneDrive\Documents\Snek\obj\Debug\Snek.xml
+C:\Users\henky001\OneDrive\Documents\Snek\obj\Debug\Snek.pdb
